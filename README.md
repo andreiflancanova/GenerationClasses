@@ -1,2 +1,2 @@
-# GenerationClasses
-Materiais desenvolvidos durante o Bootcamp da Generation
+# Portugol Studio
+Exercícios desenvolvidos em linguagem Portugol
