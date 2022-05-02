@@ -18,7 +18,7 @@ xcopy /E /I "Caminho de Origem" "Caminho de Destino"
 5º) Criar nova Branch para implementar alterações:
 
 git checkout -b "Nome da Nova Branch" (CRIAR NOVA)
-git checkout -b BranchExistente 
+git checkout BranchExistente 
 
 6º) Adicionar os arquivos para o próximo Commit
 
